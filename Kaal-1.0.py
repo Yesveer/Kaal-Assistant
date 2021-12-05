@@ -127,7 +127,7 @@ if __name__ == "__main__":
             speak("I live in cloud and only in your coumputer ")
             print("I am in your computer harddisk")
         elif 'papa' in query:
-            speak("mister jitender kumar singh how are you")
+            speak("Thanks")
         elif 'who are you' in query:
             speak("i  am  Chotu  a virtiual assistant of Shivam sir! ")
             print("I am  Chotu  a virtiual assistant look like a JARVIS sir!")
@@ -316,7 +316,7 @@ if __name__ == "__main__":
             speak("thankyou for your response mummy jii..")
 
         elif 'mummy name' in query:
-            speak("miss sangeet singh...")
+            speak("thanks")
 
         elif 'what is' and 'who is' in query:
             #use the same  API key that we generated earlier i.e wolframalpha
